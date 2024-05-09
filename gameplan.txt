@@ -1,0 +1,11 @@
+# Ideas for time clock system
+
+User stories & Story Points on a Scale of 1 - 5:
+	- (1) Each time a clock in/out is required, teacher should display a QR code on the smart TV
+	- (3) Each student should clock in with a username and password
+	- Students should only be allowed to clock in while on our WiFi network
+	- (3) Students should only be able to clock in and out while at 4990 E State St.
+	- (3) QR codes should only be valid within +/- 7 minutes, after which they should be marked late
+	- (3) For students who are late or excused, an instructor code should clock them in
+	- (5) Staff should be able to log in to an admin portal that will generate attendance reports
+
